@@ -1,0 +1,34 @@
+_repo: A-Young-Inventor-s-Pluck--or-The-Mystery-of-the-Willington-Legacy_42142
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42142-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Captain Ralph
+    - Steward, Ray M.
+    - Winfield, Arthur M.
+    - Bonehill, Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2013-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inventors -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: A Young Inventor's Pluck; or, The Mystery of the Willington Legacy
+url: http://www.gutenberg.org/ebooks/42142
