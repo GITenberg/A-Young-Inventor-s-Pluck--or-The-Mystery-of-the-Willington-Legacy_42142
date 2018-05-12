@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42142#A-Young-Inventor-s-Pluck--or-The-Mystery-of-the-Willington-Legacy
 gutenberg_issued: '2013-02-20'
 gutenberg_type: Text
 identifiers:
